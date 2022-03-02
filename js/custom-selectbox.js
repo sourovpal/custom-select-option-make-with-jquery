@@ -73,3 +73,7 @@
 
 jQuery(".rev-select-box").RevSelectBox();
 jQuery( "select" ).RevSelectBox();
+
+// $select.dispatchEvent(new Event('change'));
+
+
